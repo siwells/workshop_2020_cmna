@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Workshop on Intelligent Machines &amp; Human Behaviour</title>
-    <link>http://arg.napier.ac.uk/events/imhb/tags/</link>
-    <description>Recent content in Tags on Workshop on Intelligent Machines &amp; Human Behaviour</description>
+    <title>Tags on Workshop on Computational Models of Natural Argument (CMNA 20)</title>
+    <link>http://arg.napier.ac.uk/events/cmna/tags/</link>
+    <description>Recent content in Tags on Workshop on Computational Models of Natural Argument (CMNA 20)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://arg.napier.ac.uk/events/imhb/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://arg.napier.ac.uk/events/cmna/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

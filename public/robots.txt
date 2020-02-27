@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://arg.napier.ac.uk/events/imhb/sitemap.xml
+Sitemap: http://arg.napier.ac.uk/events/cmna/sitemap.xml

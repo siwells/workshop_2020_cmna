@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://arg.napier.ac.uk/events/imhb/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://arg.napier.ac.uk/events/cmna/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/call/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/call/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/categories/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/dates/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/dates/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/home/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/home/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/organisation/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/organisation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/programme/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/programme/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/submission/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/submission/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/tags/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/topics/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/topics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/</loc>
+    <loc>http://arg.napier.ac.uk/events/cmna/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
