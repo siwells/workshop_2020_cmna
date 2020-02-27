@@ -27,33 +27,28 @@ copyright = ""
   filename = "sitemap.xml"
 
 [[menu.main]]
-  name = "Call"
-  weight = 10
-  identifier = "call"
-  url = "/call/"
-[[menu.main]]
   name = "Topics"
-  weight = 20
+  weight = 10
   identifier = "topics"
   url = "/topics/"
 [[menu.main]]
   name = "Submission"
-  weight = 30
+  weight = 20
   identifier = "submission"
   url = "/submission/"
 [[menu.main]]
   name = "Dates"
-  weight = 40
+  weight = 30
   identifier = "dates"
   url = "/dates/"
 [[menu.main]]
   name = "Organisation"
-  weight = 50
+  weight = 40
   identifier = "organisation"
   url = "/organisation/"
 [[menu.main]]
   name = "Programme"
-  weight = 60
+  weight = 50
   identifier = "programme"
   url = "/programme/"
 

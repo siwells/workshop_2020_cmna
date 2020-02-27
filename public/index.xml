@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Call for Papers</title>
-      <link>http://arg.napier.ac.uk/events/cmna/call/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://arg.napier.ac.uk/events/cmna/call/</guid>
-      <description>Download a PDF version of the first call for papers  We are pleased to invite submissions for our forthcoming Workshop on Intelligent Machines and Human Behaviour, to be held as part of the AISB 2019 Conference in Falmouth UK, 16th-18th April 2019. Artificially intelligent machines are becoming increasingly prevalent in modern society and are likely to play an important, even ubiquitous, role in future everyday decision making. This is a trend that is likely to accelerate as new techniques for automated-reasoning and machine-learning are applied to decision making within real-world domains.</description>
-    </item>
-    
-    <item>
       <title>Dates</title>
       <link>http://arg.napier.ac.uk/events/cmna/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,7 +54,7 @@ Organising Committee  Floriana Grasso floriana@liverpool.ac.uk University of Liv
       
       <guid>http://arg.napier.ac.uk/events/cmna/submission/</guid>
       <description>The workshop encourages submissions in four categories:
- Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages). Demonstration of implemented systems: submissions should be accompanied by written reports (up to 3 pages). Short abstract, describing a doctoral thesis summary, project proposal, or postiion statement (up to 2 pages).  It is highly recommended, but not mandatory, to format papers using the Springer LNCS format.</description>
+ Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages).  It is highly recommended, but not mandatory, to format papers using the Springer LNCS format. Paper submission will be handled by the Easychair conference system. Please submit your paper here via easychair: https://easychair.</description>
     </item>
     
     <item>
