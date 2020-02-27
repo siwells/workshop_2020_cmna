@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Intelligent Machines &amp; Human Behaviour</title>
+    <link>http://arg.napier.ac.uk/events/imhb/pages/</link>
+    <description>Recent content in Pages on Intelligent Machines &amp; Human Behaviour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://arg.napier.ac.uk/events/imhb/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dates</title>
+      <link>http://arg.napier.ac.uk/events/imhb/pages/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/pages/dates/</guid>
+      <description> Key Dates  Paper submission: Position Statement submission: Notification to authors: Early registration deadline: See AISB call for details Final version of papers: Workshop: Date to be confirmed  </description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://arg.napier.ac.uk/events/imhb/pages/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/pages/organisation/</guid>
+      <description> If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee  Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Kate Pangbourne K.J.Pangbourne@leeds.ac.uk Institute for Transport Studies, University of Leeds Hannah Bowden hannah.bowden.19@ucl.ac.uk UCL Institute of Epidemiology and Health Care, Research Department of Behavioural Science and Health, University College London  Programme Committee    --  Al Baker Institute for Transport Studies, University of Leeds Paula Forbes University of Abertay Antti Jyllha The Hague University of Applied Sciences  Cedric Perret School of Computing, Edinburgh Napier University  Simon Powers School of Computing, Edinburgh Napier University   </description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>http://arg.napier.ac.uk/events/imhb/pages/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/pages/programme/</guid>
+      <description>The programme for the day has yet to be finalised.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>http://arg.napier.ac.uk/events/imhb/pages/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/pages/submission/</guid>
+      <description>The workshop encourages submissions in two categories:
+ Standard Papers, reporting on either completed work or work in progress (up to 6 pages). Position statements offering a polemic discussion on a burning issue (up to 3 pages).  Papers should be submitted using the AISB style.
+Paper submission will be managed using the Easychair conference system.
+Authors of the long papers accepted for presentation at CMNA XV will be invited to submit a revised version for publication in a post-workshop volume, edited by Springer in the LNCS/LNAI series, collecting papers from all workshops at PRIMA 2015.</description>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>http://arg.napier.ac.uk/events/imhb/pages/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/pages/topics/</guid>
+      <description>Generally, we are interested in all aspects of how Artificial Intelligence (AI) technologies can, do, and perhaps will, either explicitly or implicitly, affect human behaviour.
+Topics of interest to this meeting include, but are not limited to the following:
+ Artificial Intelligence Behaviour Change &amp;amp; Management Captology Dark Patterns &amp;amp; Misuse Digital Persuasion Gamification Human Behaviour Real world applications of AI techniques Trust  </description>
+    </item>
+    
+  </channel>
+</rss>

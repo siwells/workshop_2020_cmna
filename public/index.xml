@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Intelligent Machines &amp; Human Behaviour</title>
+    <link>http://arg.napier.ac.uk/events/imhb/</link>
+    <description>Recent content on Workshop on Intelligent Machines &amp; Human Behaviour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://arg.napier.ac.uk/events/imhb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>http://arg.napier.ac.uk/events/imhb/call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/call/</guid>
+      <description>Download a PDF version of the first call for papers  We are pleased to invite submissions for our forthcoming Workshop on Intelligent Machines and Human Behaviour, to be held as part of the AISB 2019 Conference in Falmouth UK, 16th-18th April 2019. Artificially intelligent machines are becoming increasingly prevalent in modern society and are likely to play an important, even ubiquitous, role in future everyday decision making. This is a trend that is likely to accelerate as new techniques for automated-reasoning and machine-learning are applied to decision making within real-world domains.</description>
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>http://arg.napier.ac.uk/events/imhb/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/dates/</guid>
+      <description> Key Dates  Paper submission: 14th 28th January 2019 Position Statement submission: 14th 28th January 2019 Notification to authors: 11th March 2019 Early registration deadline: See AISB call for details Final (Camera Ready) version of papers: 25th March 2019 Workshop: Date to be confirmed  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://arg.napier.ac.uk/events/imhb/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/home/</guid>
+      <description>Paper &amp;amp; Position-paper dates extended: 28th January 2019 (see the dates page for more details).
+This workshop will run as part of the Society for the Study of Artificial Intelligence and Simulation of Behaviour (AISB 2019) annual convention.
+Artificially intelligent machines are becoming increasingly prevalent in modern society and are likely to play an important, even ubiquitous, role in future everyday decision making. This is a trend that is likely to accelerate as new techniques for automated-reasoning and machine- learning are applied to decision making within real-world domains.</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://arg.napier.ac.uk/events/imhb/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/organisation/</guid>
+      <description> If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee  Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University Kate Pangbourne K.J.Pangbourne@leeds.ac.uk Institute for Transport Studies, University of Leeds Hannah Bowden hannah.bowden.19@ucl.ac.uk UCL Institute of Epidemiology and Health Care, Research Department of Behavioural Science and Health, University College London  Programme Committee    --  Al Baker Institute for Transport Studies, University of Leeds Hannah Bowden UCL Institute of Epidemiology and Health Care, Research Department of Behavioural Science and Health, University College Londo Paula Forbes University of Abertay Antti Jyllha The Hague University of Applied Sciences Kate Pangbourne Institute for Transport Studies, University of Leeds Cedric Perret School of Computing, Edinburgh Napier University Simon Powers School of Computing, Edinburgh Napier University Simon Wells School of Computing, Edinburgh Napier University  </description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>http://arg.napier.ac.uk/events/imhb/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/programme/</guid>
+      <description>The programme for the day has yet to be finalised.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>http://arg.napier.ac.uk/events/imhb/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/submission/</guid>
+      <description>The workshop encourages submissions in two categories:
+ Short Papers reporting on either completed work or work in progress (up to 6 pages including notes and references). Position statements offering a polemic discussion on a burning issue (up to 3 pages including notes and references).  Papers should be submitted using the AISB style. In order to aid the AISB organisers in producing a collection of accepted papers after the convention, if you use LaTeX please upload all sources and images in a single folder in addition to the PDF.</description>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>http://arg.napier.ac.uk/events/imhb/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://arg.napier.ac.uk/events/imhb/topics/</guid>
+      <description>Generally, we are interested in all aspects of how Artificial Intelligence (AI) technologies can, do, and perhaps will, either explicitly or implicitly, affect human behaviour.
+Topics of interest to this meeting include, but are not limited to the following:
+ Artificial Intelligence Behaviour Change &amp;amp; Management Captology Dark Patterns &amp;amp; Misuse Digital Persuasion Gamification Human Behaviour Real world applications of AI techniques Trust  </description>
+    </item>
+    
+  </channel>
+</rss>
