@@ -5,7 +5,7 @@ comments: false
 ---
 
 
-
+* Download a PDF version of the [first call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp.pdf)
 
 The workshop encourages submissions in four categories:
 
