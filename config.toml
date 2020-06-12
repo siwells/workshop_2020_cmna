@@ -85,7 +85,8 @@ copyright = ""
   fancybox = true           # see https://github.com/fancyapps/fancybox       
 
 
-
+    [markup.goldmark.renderer]
+        unsafe= true
 
   [params.publicCDN]        # load these files from public cdn                       
     enable = true
