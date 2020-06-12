@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://arg.napier.ac.uk/events/cmna/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>http://arg.napier.ac.uk/events/cmna/categories/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -41,7 +40,7 @@
   <url>
     <loc>http://arg.napier.ac.uk/events/cmna/tags/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -53,7 +52,7 @@
   <url>
     <loc>http://arg.napier.ac.uk/events/cmna/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
