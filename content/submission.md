@@ -6,7 +6,7 @@ comments: false
 
 
 * Download a PDF version of the [first call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp.pdf)
-* Download a PDF version of the [second call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp#2.pdf)
+* Download a PDF version of the [second call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp2.pdf)
 
 
 The workshop encourages submissions in four categories:
