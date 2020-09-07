@@ -38,7 +38,7 @@ Use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+P
 |----------|---|---|
 | | **Introductory Remarks** | 14:45-15:00 |
 | Nancy Green and L. Joshua Crotts  | Argument Schemes for AI Ethics Education | 15:00-15:30 | 
-| Liga and Monica Palmirani  | Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation | 15:30-15:45 |  
+| Davide Liga and Monica Palmirani  | Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation | 15:30-15:45 |  
 | Laura Moss, Derek Sleeman and John Kinsella | Persuasive Argument Schemes for Clinical Conflict Resolution: an Empirical Study | 15:45-16:15 |
 | | **BREAK** | 16:15-16:45 |
 | Henrique M. R. Jasinski, Mariela Morveli Espinoza and Cesar A. Tacla. | Generating Pseudo-natural Explanations for Goal Selection | 16:45-17:00 |
