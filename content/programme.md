@@ -15,11 +15,11 @@ Use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+P
 |  Authors | Title  | Time  |
 |----------|---|---|
 | | **Introductory Remarks** | 09:00-09:15 |
-|  Zhe Yu | [A Context-based Argumentation Framework with Values](http://arg.napier.ac.uk/events/cmna/assets/papers/1.pdf)  | 09:15-09:45  | 
-|  Davide Liga and Monica Palmirani | [Transfer Learning with Sentence Embeddings for Argumentative Evidence Classification](http://arg.napier.ac.uk/events/cmna/assets/papers/2.pdf)  |  09:45-10:15 | 
+|  Zhe Yu | [A Context-based Argumentation Framework with Values](http://arg.napier.ac.uk/events/cmna/assets/papers/paper1.pdf)  | 09:15-09:45  | 
+|  Davide Liga and Monica Palmirani | [Transfer Learning with Sentence Embeddings for Argumentative Evidence Classification](http://arg.napier.ac.uk/events/cmna/assets/papers/paper2.pdf)  |  09:45-10:15 | 
 | | **BREAK** | 10:15-11:00 | 
-|  Henry Prakken | [On Validating Theories of Abstract Argumentation Frameworks: the Case of Bipolar Argumentation Frameworks](http://arg.napier.ac.uk/events/cmna/assets/papers/3.pdf) | 11:00-11:30 |
-|  Simon Wells   | [Datastores for Argumentation Data](http://arg.napier.ac.uk/events/cmna/assets/papers/4.pdf)  | 11:30-12:00  | 
+|  Henry Prakken | [On Validating Theories of Abstract Argumentation Frameworks: the Case of Bipolar Argumentation Frameworks](http://arg.napier.ac.uk/events/cmna/assets/papers/paper3.pdf) | 11:00-11:30 |
+|  Simon Wells   | [Datastores for Argumentation Data](http://arg.napier.ac.uk/events/cmna/assets/papers/paper4.pdf)  | 11:30-12:00  | 
 | | **Discussion** | 12:00-12:30 |
 | | **Lunch Break** | 12:30-13:45 |
 
@@ -39,13 +39,13 @@ Use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+P
 |  Authors | Title  | Time  |
 |----------|---|---|
 | | **Introductory Remarks** | 14:45-15:00 |
-| Nancy Green and L. Joshua Crotts  | [Argument Schemes for AI Ethics Education](http://arg.napier.ac.uk/events/cmna/assets/papers/5.pdf) | 15:00-15:30 | 
-| Davide Liga and Monica Palmirani  | [Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation](http://arg.napier.ac.uk/events/cmna/assets/papers/6.pdf) | 15:30-15:45 |  
-| Laura Moss, Derek Sleeman and John Kinsella | [Persuasive Argument Schemes for Clinical Conflict Resolution: an Empirical Study](http://arg.napier.ac.uk/events/cmna/assets/papers/7.pdf) | 15:45-16:15 |
+| Nancy Green and L. Joshua Crotts  | [Argument Schemes for AI Ethics Education](http://arg.napier.ac.uk/events/cmna/assets/papers/paper5.pdf) | 15:00-15:30 | 
+| Davide Liga and Monica Palmirani  | [Argumentation Schemes as Templates? Combining Bottom-up and Top-down Knowledge Representation](http://arg.napier.ac.uk/events/cmna/assets/papers/paper6.pdf) | 15:30-15:45 |  
+| Laura Moss, Derek Sleeman and John Kinsella | [Persuasive Argument Schemes for Clinical Conflict Resolution: an Empirical Study](http://arg.napier.ac.uk/events/cmna/assets/papers/paper7.pdf) | 15:45-16:15 |
 | | **BREAK** | 16:15-16:45 |
-| Henrique M. R. Jasinski, Mariela Morveli Espinoza and Cesar A. Tacla. | [Generating Pseudo-natural Explanations for Goal Selection](http://arg.napier.ac.uk/events/cmna/assets/papers/8.pdf) | 16:45-17:00 |
-| Nancy Green and L. Joshua Crotts | [Towards Automatic Detection of Antithesis](http://arg.napier.ac.uk/events/cmna/assets/papers/9.pdf) | 17:00-17:15 |
-| Trevor Bench-Capon | [Explaining Legal Decisions Using IRAC](http://arg.napier.ac.uk/events/cmna/assets/papers/10.pdf) | 17:15-17:45 |
+| Henrique M. R. Jasinski, Mariela Morveli Espinoza and Cesar A. Tacla. | [Generating Pseudo-natural Explanations for Goal Selection](http://arg.napier.ac.uk/events/cmna/assets/papers/paper8.pdf) | 16:45-17:00 |
+| Nancy Green and L. Joshua Crotts | [Towards Automatic Detection of Antithesis](http://arg.napier.ac.uk/events/cmna/assets/papers/paper9.pdf) | 17:00-17:15 |
+| Trevor Bench-Capon | [Explaining Legal Decisions Using IRAC](http://arg.napier.ac.uk/events/cmna/assets/papers/paper10.pdf) | 17:15-17:45 |
 | | **Closing Remarks** | 17:45-18:00 |
 
 
