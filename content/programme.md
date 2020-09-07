@@ -4,7 +4,7 @@ subtitle:
 comments: false
 ---
 
-CMNA 20 will be using Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting. CMNA will also be broadcasting our meeting using Facebook Live on the (CMNA Facebook page)[https://www.facebook.com/CMNAworkshops/].
+CMNA 20 will be using Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting. CMNA will also be streaming our meeting using Facebook Live on the [CMNA Facebook page](https://www.facebook.com/CMNAworkshops/).
 
 Note that all times are in Central European Time (GMT +2)
 
