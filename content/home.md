@@ -4,6 +4,11 @@ subtitle:
 comments: false
 ---
 
+# News & Updates
+
+- 14.09.2020 - [CMNA 2020 Proceedings](http://ceur-ws.org/Vol-2669/) are now available published through CEUR Workshop Proceedings.
+- 08.09.2020 - CMNA is happening. Live stream available through our [Facebook page](https://www.facebook.com/CMNAworkshops/).
+
 __In this uncertain time, we'd like to provide a little certainty. We fully intend for CMNA 20 to still go ahead. Albeit in an online capacity, following the lead provided by our hosts at COMMA and our sibling, co-hosted , COMMA workshops. So, in this spirit....__
 
 Since its inception in 2001, the CMNA workshop series focuses on the issue of modelling “natural” argumentation, where naturalness may range across a variety of forms, perhaps involving the use of visual rather than linguistic means to illustrate a point, for example using graphics or multimedia, or applying more sophisticated rhetorical devices, interacting at various layers of abstraction, or exploiting “extra-rational” characteristics of the audience, taking into account emotions and affective factors. 
