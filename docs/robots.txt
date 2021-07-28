@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cmna-workshop.github.io/cmna20/sitemap.xml

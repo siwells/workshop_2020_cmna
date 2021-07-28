@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Computational Models of Natural Argument (CMNA 20)</title>
+    <link>https://cmna-workshop.github.io/cmna20/</link>
+    <description>Recent content on Workshop on Computational Models of Natural Argument (CMNA 20)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://cmna-workshop.github.io/cmna20/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dates</title>
+      <link>https://cmna-workshop.github.io/cmna20/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/dates/</guid>
+      <description>Key Dates  Regular Paper submission (long &amp;amp; Short papers): 1st July 2020 15th July 2020 Notification to authors: 15th August 2020 Early registration deadline: See COMMA call for details Final (Camera Ready) version of papers: 31st August 2020 Workshop: 8th September 2020 Main COMMA Conference: 9th-11th September 2020  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://cmna-workshop.github.io/cmna20/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/home/</guid>
+      <description>News &amp;amp; Updates  14.09.2020 - CMNA 2020 Proceedings are now available published through CEUR Workshop Proceedings. 08.09.2020 - CMNA is happening. Live stream available through our Facebook page.  In this uncertain time, we&amp;rsquo;d like to provide a little certainty. We fully intend for CMNA 20 to still go ahead. Albeit in an online capacity, following the lead provided by our hosts at COMMA and our sibling, co-hosted , COMMA workshops.</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://cmna-workshop.github.io/cmna20/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/organisation/</guid>
+      <description>If you have any questions or queries then feel free to contact a member of the organising committee
+Organising Committee  Floriana Grasso floriana@liverpool.ac.uk University of Liverpool Nancy Green nlgreen@uncg.edu University of North Carolina Greensboro Jodi Schneider jschneider@pobox.com University of Illinois Urbana Champaign Simon Wells s.wells@napier.ac.uk School of Computing, Edinburgh Napier University  Programme Committee  Trevor	Bench-CaponUniversity of Liverpool Floris	BexUtrecht University Sarah	BigiUniversità Cattolica del Sacro Cuore Elena	CabrioUniversité Côte d&#39;Azur, CNRS, Inria, I3S, France Reva	FreedmanNorthern Illinois University Massimiliano	GiacominUniversity of Brescia Floriana	GrassoUniversity of Liverpool Nancy	GreenUniversity of North Carolina Greensboro Randy	HarrisUniversity of Waterloo Stella	HerasUniversitat Politècnica de València Helmut	HoracekSaarland University Fabrizio	MacagnoUniversidade NOVA de Lisboa Nicole	NovielliDipartimento di Informatica, University of Bari Nir	OrenUniversity of Aberdeen Fabio	PaglieriISTC-CNR Rome Rudi	PalmieriUniversity of Liverpool Saint DizierIRIT-CNRS Paul	PiwekThe Open University Jodi	SchneiderUniversity of Illinois Urbana Champaign Mark	SnaithUniversity of Dundee Marko	TkalcicUniversity of Primorska Alice	TonioloUniversity of St Andrews Paolo	TorroniUniversity of Bologna Serena	VillataCNRS - Laboratoire d&#39;Informatique, Signaux et Systèmes de Sophia-Antipolis Simon	WellsEdinburgh Napier University Frank	ZenkerLund University  </description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://cmna-workshop.github.io/cmna20/programme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/programme/</guid>
+      <description>CMNA 20 will be using Zoom for meeting participants. We&amp;rsquo;ll distribute links to registered delegates prior to the meeting. CMNA will also be streaming our meeting using Facebook Live on the CMNA Facebook page.
+CMNA 2020 Proceedings are now available published through CEUR Workshop Proceedings.
+Note that all times are in Central European Time (GMT +2)
+Session #1 (09:00-12:30 CET) Use this link to double check the time in your own timezone for the morning session.</description>
+    </item>
+    
+    <item>
+      <title>Submission</title>
+      <link>https://cmna-workshop.github.io/cmna20/submission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/submission/</guid>
+      <description>Download a PDF version of the first call for papers Download a PDF version of the second call for papers  The workshop encourages submissions in four categories:
+ Long papers, either reporting on completed work or offering a polemic discussion on a burning issue (up to 10 pages). Short papers describing work in progress (up to 5 pages). Demos (2 page abstract describing the demo) Posters (2 page abstract explaining the concept behind the poster).</description>
+    </item>
+    
+    <item>
+      <title>Topics</title>
+      <link>https://cmna-workshop.github.io/cmna20/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cmna-workshop.github.io/cmna20/topics/</guid>
+      <description>The workshop focuses on the issue of modelling &amp;ldquo;natural&amp;rdquo; argumentation. Contributions are solicited addressing, but not limited to, the following areas of interest:
+ The characteristics of “natural” arguments (e.g. ontological aspects, cognitive issues, legal asepcts). The linguistic characteristics of natural argumentation, including discourse markers, sentence format, referring expressions, and style. The generation of natural argument Corpus argumentation results and techniques Argumentation mining Models of natural legal argument Rhetoric and affect: the role of emotions, personalities, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
