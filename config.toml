@@ -1,4 +1,5 @@
-baseURL = "http://arg.napier.ac.uk/events/cmna"
+baseURL = "https://cmna-workshop.github.io/cmna20"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"                    
 title = "Workshop on Computational Models of Natural Argument (CMNA 20)"
